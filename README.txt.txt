@@ -1,0 +1,2 @@
+Automatically creates ordinates in two axis, and will create center marks for slots and holes. Difficulties creating ordinates for curved edges and fillet.
+Requires further work to remove phantom sketch points from Burn Template drawings.
